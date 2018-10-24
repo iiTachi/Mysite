@@ -24,7 +24,7 @@ SECRET_KEY = 'q@2jylt2%)(x8aj9-bl=*a(t*_t+4h3a$7gdzyw8eij2rxk*+m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost:8000/polls']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1']
 
 # Application definition
 
